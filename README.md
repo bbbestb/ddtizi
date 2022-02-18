@@ -439,4 +439,4 @@
  | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) |
  
  #### TODO 本文动态更新，老铁们可以关注
- #### [https://github.com/fqmama/tizi](https://github.com/fqmama/tizi)
+ #### [ddtizi link](https://github.com/wuxiandd/ddtizi)
